@@ -18,4 +18,5 @@ Depo içerisinde model dosyaları yer almamaktadır. Programın derlenebilir ve 
 Demo Ortamı: Kullanıcı Deneyimini bozmamak adına, doktorlardan 21 farklı değeri manuel girmeleri beklenmemiştir. XGBoost'un "Feature Importance" analizine göre karar mekanizmasını %70 oranında etkileyen en kritik 5 değer manuel girişe açılmıştır. Geri kalan 16 parametre, "sağlıklı bir fetüsün ortalama değerleri" ile doldurularak modele iletilmektedir.
 
 
-<img width="1398" height="662" alt="fotoAdsız" src="https://github.com/user-attachments/assets/598f6a0e-03f0-4bb0-a6fe-3398b325e1fe" />
+<img width="931" height="646" alt="fotoAdsız" src="https://github.com/user-attachments/assets/9608a846-6538-45fa-a31e-5f2f6eba94bb" />
+
